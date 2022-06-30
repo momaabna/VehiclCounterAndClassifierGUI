@@ -1,0 +1,67 @@
+<RCC>
+  <qresource prefix="images">
+    <file>png/processor.png</file>
+    <file>png/Pause.png</file>
+    <file>png/Play.png</file>
+    <file>png/webcam-icon.png</file>
+    <file>png/counter.png</file>
+    <file>png/7z file.png</file>
+    <file>png/admin tools.png</file>
+    <file>png/audio folder.png</file>
+    <file>png/avi file.png</file>
+    <file>png/bmp file.png</file>
+    <file>png/cab file.png</file>
+    <file>png/computer.png</file>
+    <file>png/control panel.png</file>
+    <file>png/default document.png</file>
+    <file>png/default programs.png</file>
+    <file>png/desktop.png</file>
+    <file>png/doc file.png</file>
+    <file>png/dvd drive.png</file>
+    <file>png/email.png</file>
+    <file>png/favorites.png</file>
+    <file>png/floppy disk.png</file>
+    <file>png/folder back.png</file>
+    <file>png/folder close.png</file>
+    <file>png/folder front.png</file>
+    <file>png/folder open.png</file>
+    <file>png/font folder.png</file>
+    <file>png/gif file.png</file>
+    <file>png/hdd.png</file>
+    <file>png/help and suport.png</file>
+    <file>png/internet explorer.png</file>
+    <file>png/jpg file.png</file>
+    <file>png/live folder.png</file>
+    <file>png/mobile devices.png</file>
+    <file>png/mov file.png</file>
+    <file>png/movie folder.png</file>
+    <file>png/mp3 file.png</file>
+    <file>png/mp4 file.png</file>
+    <file>png/mpeg file.png</file>
+    <file>png/my recent documents.png</file>
+    <file>png/network drive connected.png</file>
+    <file>png/network drive offline.png</file>
+    <file>png/network.png</file>
+    <file>png/pdf file.png</file>
+    <file>png/pictures folder.png</file>
+    <file>png/png file.png</file>
+    <file>png/print.png</file>
+    <file>png/psd files.png</file>
+    <file>png/ram.png</file>
+    <file>png/rar file.png</file>
+    <file>png/recycle bin empty.png</file>
+    <file>png/recycle bin full.png</file>
+    <file>png/removable disk.png</file>
+    <file>png/scanner.png</file>
+    <file>png/search.png</file>
+    <file>png/tif file.png</file>
+    <file>png/turn off.png</file>
+    <file>png/txt file.png</file>
+    <file>png/url history.png</file>
+    <file>png/user files.png</file>
+    <file>png/volume.png</file>
+    <file>png/wma file.png</file>
+    <file>png/zip file.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
