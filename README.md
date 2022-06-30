@@ -10,6 +10,21 @@ This project purpose is to make GUI software that implement the process of vehic
 
 ##screenshots
 
+
+<table>
+  <tr>
+    <td> </td>
+     <td> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td><img src="images/1.png" width=270 height=480></td>
+    <td><img src="images/1.png" width=270 height=480></td>
+    <td><img src="images/1.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+
 ![screenshot](https://raw.githubusercontent.com/momaabna/VehiclCounterAndClassifierGUI/main/images/1.png "screen")
 
 
