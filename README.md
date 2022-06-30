@@ -8,7 +8,7 @@ This project purpose is to make GUI software that implement the process of vehic
 - Reporting as CSV and HTML
 ### Tested on windows, python3.6
 
-##screenshots
+## screenshots
 
 
 <table>
@@ -18,14 +18,22 @@ This project purpose is to make GUI software that implement the process of vehic
      <td> </td>
   </tr>
   <tr>
-    <td><img src="images/1.png" width=270 height=480></td>
-    <td><img src="images/1.png" width=270 height=480></td>
-    <td><img src="images/1.png" width=270 height=480></td>
+    <td><img src="images/1.png" width=270 height=200></td>
+    <td><img src="images/2.png" width=270 height=200></td>
+    <td><img src="images/3.png" width=270 height=200></td>
+  </tr>
+   <tr>
+    <td><img src="images/4.png" width=270 height=200></td>
+    <td><img src="images/5.png" width=270 height=200></td>
+    <td><img src="images/6.png" width=270 height=200></td>
+  </tr>
+   <tr>
+    <td><img src="images/7.png" width=270 height=200></td>
+    <td><img src="images/8.png" width=270 height=200></td>
+    <td> </td>
   </tr>
  </table>
 
-
-![screenshot](https://raw.githubusercontent.com/momaabna/VehiclCounterAndClassifierGUI/main/images/1.png "screen")
 
 
 ### References
