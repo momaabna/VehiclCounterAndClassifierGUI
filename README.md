@@ -34,8 +34,12 @@ This project purpose is to make GUI software that implement the process of vehic
   </tr>
  </table>
 
+### Classification model 
 
+The classification model (VGG16) was trained on part of  <a href='https://podoce.dinf.usherbrooke.ca/challenge/dataset/'> classification challenge dataset </a> and test accuracy was 74% , you can train your own model. 
+Trained model can be found in url  :
 
+https://drive.google.com/file/d/1vHjXBYNpczQ-9UMGR5rEFjXsWLqpsznK/view?usp=sharing
 ### References
 
 https://github.com/NationalAssociationOfRealtors/VehicleCounting
