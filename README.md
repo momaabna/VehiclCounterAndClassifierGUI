@@ -6,6 +6,12 @@ This project purpose is to make GUI software that implement the process of vehic
 - Multi-threading support
 - Multiple Counting Lines (up to 6)
 - Reporting as CSV and HTML
+### To Do
+- Full documentation
+- Online streaming support
+- Performance optimization
+- Automatic parameters detection 
+
 ### Tested on windows, python3.6
 
 ## screenshots
