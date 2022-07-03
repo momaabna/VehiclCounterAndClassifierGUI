@@ -12,7 +12,19 @@ This project purpose is to make GUI software that implement the process of vehic
 - Performance optimization
 - Automatic parameters detection 
 
-### Tested on windows, python3.6
+### Tested on windows, python 3.5.2
+## Install 
+```
+git clone https://github.com/momaabna/VehiclCounterAndClassifierGUI
+cd VehiclCounterAndClassifierGUI
+pip install requrenments.txt
+```
+## Usage 
+```
+python3 main.py
+
+```
+
 
 ## screenshots
 
@@ -49,3 +61,6 @@ https://drive.google.com/file/d/1vHjXBYNpczQ-9UMGR5rEFjXsWLqpsznK/view?usp=shari
 ### References
 
 https://github.com/NationalAssociationOfRealtors/VehicleCounting
+
+
+Not fully documented but you can easily run it.
