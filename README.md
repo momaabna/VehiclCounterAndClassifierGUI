@@ -19,6 +19,7 @@ git clone https://github.com/momaabna/VehiclCounterAndClassifierGUI
 cd VehiclCounterAndClassifierGUI
 pip install requrenments.txt
 ```
+or just use binary release from <a href='https://github.com/momaabna/VehiclCounterAndClassifierGUI/releases'>here</a>.
 ## Usage 
 ```
 python3 main.py
